@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>TIC TAC TOE Game</title>
   <style>
-    /* Add your CSS styles here */
     * {
       margin: 0;
       padding: 0;
@@ -189,4 +188,4 @@
     resetBtn.addEventListener("click", resetGame);
   </script>
 </body>
-</html
+</html>
